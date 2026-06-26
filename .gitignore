@@ -100,3 +100,5 @@ runs/
 # ==========================
 *.pem
 *.key
+
+Human-Segmentation-Dataset-master/
